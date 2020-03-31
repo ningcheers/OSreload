@@ -411,6 +411,7 @@ Windows Defender是Win10自带的杀毒软件，**比起各种免费的杀毒软
     ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331171242.jpg)
 
 5. 这一步请先将所有的磁盘都删除，操作方法：挨个选中磁盘，点击“**删除**”，直到磁盘变成一块未分配的空间，然后点击“**新建**”，默认大小即可，系统会提示“**若确保Windos所有功能都正常，Windows可能要为系统文件创建额外的分区**”，即创建ESP和MSR分区，确定即可
+
     ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331171247.jpg)
 
 6. 然后选择要安装系统的盘，就可以正常安装了，安装完成重启会进入新系统。
