@@ -159,9 +159,11 @@
 
 ### 四、开始重装系统
 1. 在PE系统里点击**“CGI备份还原”**，然后在第二项里选择自己要装系统的盘，请根据大小来判断哪个是你的C盘，不要根据盘符来判断：
+
 ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331171118.jpg)
 
 2. 在CGI备份还原的第三项里选择自己下载的系统镜像文件，然后会弹出系统版本选择界面，Home即为家庭版，一般选择Pro专业版，大家按需选择：
+
 ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331171122.jpg)
 
 3. 然后就可以点击执行，在进度条结束之后，拔掉U盘，重启电脑，就可以进入新系统，重装完成。
@@ -193,6 +195,7 @@
 4. 检验激活状态
 此方法适用于Win10和Win7
    * 按下Win键+R，打开运行（打开运行的方法很多随便你用哪个）
+     
      ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331180206.png)
    
    * 输入引号里的代码，注意vbs和-之间有一个空格：**“slmgr.vbs -xpr”**
@@ -212,6 +215,7 @@
    * 进入系统之后一般只安装显卡驱动就好了，其他驱动可以等联网状态自己安装，也可以用品牌方的工具安装，不建议使用第三方工具安装。
    
    * **N卡用户请看**：如果因为网速过快，Win10已经安装完了独显DCH驱动，这时候你每次开机都会在右下角弹窗“**NVDIA Control Panel is not found**”
+     
      ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331171302.png)
      
       **解决办法有三：**
