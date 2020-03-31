@@ -268,6 +268,7 @@ Windows Defender是Win10自带的杀毒软件，**比起各种免费的杀毒软
 
 
 3. 勾选你需要的图标，应用之后桌面上就会出现了
+   
    ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331171152.png)
 
 
@@ -376,6 +377,7 @@ Windows Defender是Win10自带的杀毒软件，**比起各种免费的杀毒软
 1. 插入微PE U盘，从U盘启动电脑。
 
 2. 打开CGI备份还原，选择你的系统盘，镜像文件选择你的wim格式的备份文件，整个步骤和重装系统是一样的，具体请查看【教程一】第四步。
+   
    ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331171221.jpg)
 
 3. 还原完成重启进入电脑，你会发现C盘被恢复到了备份时候的样子，文件布局、各种设置都一模一样。
@@ -403,6 +405,7 @@ Windows Defender是Win10自带的杀毒软件，**比起各种免费的杀毒软
 **如果你使用了【教程一】前言里系统重装方法二，请直接从第3步开始看**
 
 1. 在PE盘里找到你的系统镜像文件，右击“加载ImDisk虚拟光驱”，加载设置直接默认就行，然后PE系统的此电脑里就会多出一个CD驱动器。
+   
    ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331171230.jpg)
 
 2. 打开CD驱动器，运行“setup.exe”，就可以开始传统的Windows安装方式：
