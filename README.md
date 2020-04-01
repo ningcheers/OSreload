@@ -1,9 +1,11 @@
 
-# 系统重装保姆级教程V2.1
+# 系统重装保姆级教程V2.2
 
 
 #### 文/张谨一
 
+
+![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200401133744.jpg)
 
 
 > **本教程PDF版下载地址：[www.lanzous.com/b034r918d](https://www.lanzous.com/b034r918d)**
