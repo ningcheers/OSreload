@@ -18,7 +18,6 @@
 > 如果你只是想重装系统，请继续往下翻，如果你想win7换win10，或者电脑出了问题以下方法不适用，请往下翻参照：**【教程五】Win10万能恢复**
 >
 
-
 ## 目录索引
 
 - [系统重装保姆级教程V2.2](#---------v22)
@@ -28,8 +27,8 @@
       - [一般来说，有3种装机方式](#------3-----)
       - [重装完的系统还是正版吗？/我安装的系统是正版吗？](#------------------------)
     + [一、下载装机所需文件](#----------)
-      - [1. Windows系统：[msdn.itellyou.cn](https://msdn.itellyou.cn/)](#1-windows----msdnitellyoucn)
-      - [2. 下载微PE刻录工具：[www.wepe.com.cn](http://www.wepe.com.cn/download.html)](#2----pe------wwwwepecomcn)
+      - [1. Windows系统](#1-windows--)
+      - [2. 下载微PE刻录工具](#2----pe----)
       - [3. 下载显卡驱动](#3-------)
       - [4. 下载驱动工具](#4-------)
     + [二、制作PE盘](#----pe-)
@@ -56,6 +55,9 @@
     + [一、自助建立ESP和MSR分区](#------esp-msr--)
     + [二、使用传统Windows安装方法自动建立](#------windows--------)
   * [【教程五】Win10万能恢复](#-----win10----)
+
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ------
@@ -111,7 +113,8 @@
 
 
 ### 一、下载装机所需文件
-#### 1. Windows系统：[msdn.itellyou.cn](https://msdn.itellyou.cn/)
+#### 1. Windows系统
+地址：[msdn.itellyou.cn](https://msdn.itellyou.cn/)
 进去之后从左边的列表里选择**"操作系统"**，然后找到最新版下载即可
 比如我现在Win10的选择：
 
@@ -142,7 +145,8 @@
 
 
 
-#### 2. 下载微PE刻录工具：[www.wepe.com.cn](http://www.wepe.com.cn/download.html)
+#### 2. 下载微PE刻录工具
+微PE：[www.wepe.com.cn](http://www.wepe.com.cn/download.html)
 ![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331170952.jpg)
 
 
