@@ -28,8 +28,8 @@
       - [一般来说，有3种装机方式](#------3-----)
       - [重装完的系统还是正版吗？/我安装的系统是正版吗？](#------------------------)
     + [一、下载装机所需文件](#----------)
-      - [1. Windows系统：[msdn.itellyou.cn](https://msdn.itellyou.cn/)](#1-windows----msdnitellyoucn--https---msdnitellyoucn--)
-      - [2. 下载微PE刻录工具：[www.wepe.com.cn](http://www.wepe.com.cn/download.html)](#2----pe------wwwwepecomcn--http---wwwwepecomcn-downloadhtml-)
+      - [1. Windows系统：[msdn.itellyou.cn](https://msdn.itellyou.cn/)](#1-windows----msdnitellyoucn)
+      - [2. 下载微PE刻录工具：[www.wepe.com.cn](http://www.wepe.com.cn/download.html)](#2----pe------wwwwepecomcn)
       - [3. 下载显卡驱动](#3-------)
       - [4. 下载驱动工具](#4-------)
     + [二、制作PE盘](#----pe-)
@@ -56,9 +56,7 @@
     + [一、自助建立ESP和MSR分区](#------esp-msr--)
     + [二、使用传统Windows安装方法自动建立](#------windows--------)
   * [【教程五】Win10万能恢复](#-----win10----)
-      - [文/张谨一](#------1)
-      - [欢迎转载，转载请注明作者及出处](#---------------)
-      - [本教程PDF版下载地址：[www.lanzous.com/b034r918d](https://www.lanzous.com/b034r918d) 密码:2vv2]
+
 
 ------
 
