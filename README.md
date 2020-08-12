@@ -20,6 +20,8 @@
 
 ## 更新内容
 
+v2.3 微PE更新，对应教程更新
+
 v2.2 增加了部分步骤的配图，便于初学者理解
 
 v2.1 增加了pdf文件下载链接，便于保存
@@ -156,7 +158,12 @@ v1.1 更新下载链接和配图
 
 #### 2. 下载微PE刻录工具
 微PE：[www.wepe.com.cn](http://www.wepe.com.cn/download.html)
-![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200331170952.jpg)
+在2017年的2.0版本之后，微PE终于有了2.1版本更新，所有老旧的工具都有了最新的版本，很多之前没有的功能也得到了补充，再次坐回了PE系统的头把交椅，最后一个不用微PE的理由也没了。
+
+需要注意的是现在微PE的官网需要打赏才能显示地址，价格两元起，**不过作者提供了“已捐赠，查看下载地址”的按钮，所以大家懂得。**不过维护一个免费，无广告的工具还是挺耗心思的，大家有条件的就可以随便打赏一下，饿死开发者最终吃亏的还是我们用户。
+![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200812204134.png)
+
+![](https://raw.githubusercontent.com/ningcheers/PictureBed/master/PicGo/20200812204128.png)
 
 
 
